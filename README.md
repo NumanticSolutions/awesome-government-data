@@ -20,6 +20,11 @@ Initial collection is built on a US and California list but repo is not limited 
 * Supreme Court of the United States : [Oral Argument Transcripts](https://www.supremecourt.gov/oral_arguments/argument_transcript/2025)
 * National Park Service [webcams](https://www.nps.gov/media/multimedia-search.htm#fq%5B%5D=Type%3A%22Webcam%22) at NPS.gov
   * such as the [Alaska Railroad Depot](https://www.nps.gov/media/webcam/view.htm?id=81B466C8-1DD8-B71B-0B09BF265A80000E)
+* [images.nasa.gov](https://images.nasa.gov/) : NASA Image and Video Library
+  * and the [images.nasa.gov API Documentation](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf)
+  * can find images like this [view of a blizzard from space](https://images.nasa.gov/details/iss046e022766)
+* [USGS APIS](https://www.usgs.gov/products/web-tools/apis) : U.S. Geological Survey APIs and Web Tools
+  * includes the [Real-Time Flood Impact Map](https://www.usgs.gov/tools/real-time-flood-impact-map)
 
 ---
 

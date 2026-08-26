@@ -5,7 +5,7 @@ List of useful and/or interesting datasets, API's and tools relating to governme
 
 Initial collection is built on a US and California list but repo is not limited to these geographies.
 
-| Thumbnails | | | |
+| Thumbnails| | | |
 | --- | --- | --- | --- |
 | <img src="images/2608-weather_gov.jpg" width=200px><br>[Weather.gov](https://www.weather.gov) | <img src="images/2608-drought_gov.jpg" width=200px><br>[drought.gov](https://www.drought.gov) | <img src="images/2608-nps_alaska_railroad_depot.jpg" width=200px><br>[Alaska Railroad Depot](https://www.nps.gov/media/webcam/view.htm?id=81B466C8-1DD8-B71B-0B09BF265A80000E) |  <img src="images/iss046e022766~medium.jpg" width=200px><br>[images.nasa.gov](https://images.nasa.gov/)|
 

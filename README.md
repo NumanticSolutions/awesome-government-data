@@ -20,6 +20,7 @@ Initial collection is built on a US and California list but repo is not limited 
 * EPA [Daily Data Download](https://www.epa.gov/outdoor-air-quality-data/download-daily-data) : "queries daily air quality summary statistics for the criteria pollutants by monitor."
   * [AirNow](https://www.airnow.gov/?)
 * USPTO [Patent Public Search Basic ](https://ppubs.uspto.gov/basic/) (PPUBS Basic)
+  * see also [Country Codes & WIPO ST.3 Table](https://www.uspto.gov/patents/apply/applying-online/country-codes-wipo-st3-table)
 * [OSHA Data](https://www.osha.gov/data) : Data Available to View and Download
 * Supreme Court of the United States : [Oral Argument Transcripts](https://www.supremecourt.gov/oral_arguments/argument_transcript/2025)
 * National Park Service [webcams](https://www.nps.gov/media/multimedia-search.htm#fq%5B%5D=Type%3A%22Webcam%22) at NPS.gov
@@ -29,12 +30,24 @@ Initial collection is built on a US and California list but repo is not limited 
   * can find images like this [view of a blizzard from space](https://images.nasa.gov/details/iss046e022766)
 * [USGS APIS](https://www.usgs.gov/products/web-tools/apis) : U.S. Geological Survey APIs and Web Tools
   * includes the [Real-Time Flood Impact Map](https://www.usgs.gov/tools/real-time-flood-impact-map)
-
+* U.S. General Services Administration : [Section 515 - Data Quality Guidelines](https://www.gsa.gov/reference/reports/information-quality-guidelines/data-quality-guidelines)
+* [United States Census - Available APIs](https://www.census.gov/data/developers/data-sets.html)
+  
 ---
 
 * [California Open Data](https://data.ca.gov)
   * such as [American Crow Range](https://data.ca.gov/dataset/american-crow-range-cwhr-b353-ds1582) - CWHR B353 [ds1582]
+* [California Legislative Information](https://leginfo.legislature.ca.gov/faces/home.xhtml)
+* [511.org](https://511.org)
+  * [Transit Data](https://511.org/open-data/transit) and [Traffic Data](https://511.org/open-data/traffic)
+* [Lassen National Park Highway ](https://www.nps.gov/lavo/planyourvisit/winter-road-closures-and-spring-clearing-update.htm)
+  * has table of road opening and closing dates, 1980 to present
 * San Jose Valley Water [Watershed Webcams](https://valleywateralert.org/scvwd/webcams/watersheds.php#cam)
+
+---
+
+* Transit for London : [Unified API](https://tfl.gov.uk/info-for/open-data-users/unified-api)
+* 
 
 ---
 

@@ -32,6 +32,7 @@ Initial collection is built on a US and California list but repo is not limited 
   * includes the [Real-Time Flood Impact Map](https://www.usgs.gov/tools/real-time-flood-impact-map)
 * U.S. General Services Administration : [Section 515 - Data Quality Guidelines](https://www.gsa.gov/reference/reports/information-quality-guidelines/data-quality-guidelines)
 * [United States Census - Available APIs](https://www.census.gov/data/developers/data-sets.html)
+* National Center for Educational Statistics - [Integrated Postsecondary Education Data System (IPEDS)](https://nces.ed.gov/ipeds/)
   
 ---
 
@@ -42,12 +43,12 @@ Initial collection is built on a US and California list but repo is not limited 
   * [Transit Data](https://511.org/open-data/transit) and [Traffic Data](https://511.org/open-data/traffic)
 * [Lassen National Park Highway ](https://www.nps.gov/lavo/planyourvisit/winter-road-closures-and-spring-clearing-update.htm)
   * has table of road opening and closing dates, 1980 to present
-* San Jose Valley Water [Watershed Webcams](https://valleywateralert.org/scvwd/webcams/watersheds.php#cam)
+* San Jose Valley Water - [Watershed Webcams](https://valleywateralert.org/scvwd/webcams/watersheds.php#cam)
 
 ---
 
 * Transit for London : [Unified API](https://tfl.gov.uk/info-for/open-data-users/unified-api)
-* 
+* Barcelona City Council : [Open Data BCN](https://opendata-ajuntament.barcelona.cat/en)
 
 ---
 

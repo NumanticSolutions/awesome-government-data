@@ -31,8 +31,15 @@ Initial collection is built on a US and California list but repo is not limited 
 * [USGS APIS](https://www.usgs.gov/products/web-tools/apis) : U.S. Geological Survey APIs and Web Tools
   * includes the [Real-Time Flood Impact Map](https://www.usgs.gov/tools/real-time-flood-impact-map)
 * U.S. General Services Administration : [Section 515 - Data Quality Guidelines](https://www.gsa.gov/reference/reports/information-quality-guidelines/data-quality-guidelines)
-* [United States Census - Available APIs](https://www.census.gov/data/developers/data-sets.html)
-* National Center for Educational Statistics - [Integrated Postsecondary Education Data System (IPEDS)](https://nces.ed.gov/ipeds/)
+* United States Census : [Available APIs](https://www.census.gov/data/developers/data-sets.html)
+* National Center for Educational Statistics : [Integrated Postsecondary Education Data System (IPEDS)](https://nces.ed.gov/ipeds/)
+* treasury.gov : [FiscalData API](https://fiscaldata.treasury.gov/api-documentation/)
+* U.S. Securities and Exchange Commission : [EDGAR API](https://www.sec.gov/search-filings/edgar-application-programming-interfaces)
+* Federal Election Commission : [OpenFEC](https://api.open.fec.gov/developers/)
+* NIH : National Library of Medicine : [NCBI APIs](https://www.ncbi.nlm.nih.gov/home/develop/api/)
+  * including [PubMed Central](https://pmc.ncbi.nlm.nih.gov/tools/developers/)
+* Library of Congress : [APIs for LoC.gov](https://www.loc.gov/apis/)
+
   
 ---
 

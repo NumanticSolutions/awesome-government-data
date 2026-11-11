@@ -39,6 +39,10 @@ Initial collection is built on a US and California list but repo is not limited 
 * NIH : National Library of Medicine : [NCBI APIs](https://www.ncbi.nlm.nih.gov/home/develop/api/)
   * including [PubMed Central](https://pmc.ncbi.nlm.nih.gov/tools/developers/)
 * Library of Congress : [APIs for LoC.gov](https://www.loc.gov/apis/)
+* Federal Data Forum
+  * [Data Preservation Resources](https://federaldataforum.prb.org/data-preservation-resources) - for data that have been altered, removed, or discontinued
+* [Regulations.gov](https://www.regulations.gov) : Your Voice in Federal Decision Making
+* [Federal Register](https://www.federalregister.gov/developers/documentation/api/v1) : API for the Daily Journal of the United States Government
 
   
 ---

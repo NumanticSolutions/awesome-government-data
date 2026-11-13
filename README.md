@@ -63,7 +63,5 @@ Initial collection is built on a US and California list but repo is not limited 
 
 ---
 
-If you have a suggestion either create an issue or fork, edit & submit a pull request.
-
-Include a URL, some descriptive text and an interesting specific link (or note) about the submission.
+If you have a suggestion open an issue that includes the proposed URL to include.
 
